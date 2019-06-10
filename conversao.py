@@ -1,4 +1,6 @@
-#print('----------conversão-de-moedas-------------')
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+__author__ = "Gabriel Ivo Lins"
 
 c=float(input("Digite o valor de U$1,00 em R$: "))
 while True:
@@ -12,4 +14,3 @@ while True:
     elif v==3:break
     else:
         print("Opção inválida.")
-print("Fim-Do-Programa")
